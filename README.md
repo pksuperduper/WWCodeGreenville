@@ -1,35 +1,3 @@
-<!-- Women Who Code Brand Colors -->
-<style>
-  .wwc-teal {
-    color: #007D7F;
-  }
-
-  .wwc-yellow-heading {
-    background-color: #007D7F;
-    color: #FCED17;
-    display: inline-block;
-    margin: 0 auto;
-    text-align: center;
-    width: 100%;
-  }
-
-  wwc-orange {
-    color: #E86431;
-  }
-
-  wwc-purple {
-    color: #BB27A8;
-  }
-
-  wwc-blue {
-  color: #3045BF;
-  }
-
-  wwc-green {
-  color: #479F48;
-  }
-</style>
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
@@ -37,11 +5,12 @@
 
 ![Women Who Code Greenville logo](assets/greenville_teal_logo.png)
 
-# Welcome to Women Who Code Greenville! :sparkles: :computer:
+# Welcome to Women Who Code Greenville! ✨💻
 [Linktree](https://linktr.ee/wwcodegville)
 
 <!-- TABLE OF CONTENTS -->
-<h2 class='wwc-yellow-heading'>Table of Contents</h2>
+![Table of Contents][table-of-contents-heading]
+  
 
 * [About the Project](#about-the-project)
 * [Hacktoberfest 2023]()
@@ -66,7 +35,7 @@ Why contribute to this repo?
 If there are any questions, please let us know 😁
 
 <!-- Hacktoberfest 23 -->
-<h2 id='hacktoberfest' class='wwc-yellow-heading'>🎃 Hacktoberfest 23</h2>
+![Hacktoberfest][hacktoberfest-heading]
 
 - 🍴 To get started, [fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 - 👯‍♀️ [Clone the repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your computer.
@@ -139,3 +108,6 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 [stars-url]: https://github.com/WomenWhoCode/WWCodeGreenville/stargazers
 [issues-shield]: https://img.shields.io/github/issues/WomenWhoCode/WWCodeGreenville.svg?style=flat-square
 [issues-url]: https://github.com/WomenWhoCode/WWCodeGreenville/issues
+[table-of-contents-heading]: assets/table_of_contents.svg
+[hacktoberfest-heading]: assets/hacktoberfest.svg
+
