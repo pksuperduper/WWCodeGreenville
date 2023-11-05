@@ -150,7 +150,7 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 [contact-heading]: assets/readme/contact.svg
 
 <p align="right" style="color: red"></p>
-<span style="color: red;" align="right"></span>
+<span style="color: red;" align="right"><a href="#top" style="color: red;">Back to top</a></span>
 
 
 
