@@ -149,8 +149,8 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 [acknowledgements-heading]: assets/readme/acknowledgements.svg
 [contact-heading]: assets/readme/contact.svg
 
-<p align="right" style="color: red"><a href="#top">Back to top</a></p>
-<span style="color: red;" align="right">Back to top</span>
+<p align="right" style="color: red"></p>
+<span style="color: red;" align="right"></span>
 
 
 
