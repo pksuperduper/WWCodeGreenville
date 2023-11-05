@@ -149,7 +149,7 @@ Project Link: [https://github.com/WomenWhoCode/WWCodeGreenville](https://github.
 [acknowledgements-heading]: assets/readme/acknowledgements.svg
 [contact-heading]: assets/readme/contact.svg
 
-<button  style="background-color: #007d7f; border: none;"><a href="#top" style="color: yellow;" >Back to top</a></button>
+<button  style="background-color: #007d7f; border: none;"><a href="#top" style="color: yellow;" align="right" >Back to top</a></button>
 
 
 
