@@ -53,5 +53,5 @@ Replace `<branch_name>` with the name of the branch that you want to pushed your
 
 **Happy coding 💻🥳**.
 
-<p align="right"><a href="#top">🔼 Back to top</a></p>
+<p   align="right" ><a href="#top" style="background-color: #007d7f; color: yellow; padding: 6px; outline: none" align="center" >Back to top</a></p>
 
