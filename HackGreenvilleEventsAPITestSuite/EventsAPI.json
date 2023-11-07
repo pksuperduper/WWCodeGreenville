@@ -4,8 +4,8 @@
 		"name": "HackGreenville Events API Test Suite",
 		"description": "This test suite runs on an automated schedule from the Women Who Code Greenville repository on a schedule from a Github Action.\n\n[https://github.com/WomenWhoCode/WWCodeGreenville/](https://github.com/WomenWhoCode/WWCodeGreenville/)",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "14924326",
-		"_collection_link": "https://www.postman.com/jen-bauer/workspace/wwcode-gvl-api-training/collection/14924326-d4b4558a-8cff-422d-abe8-7b26f227e9ca?action=share&source=collection_link&creator=14924326"
+		"_exporter_id": "30719102",
+		"_collection_link": "https://www.postman.com/jen-bauer/workspace/wwcode-gvl-api-training/collection/14924326-d4b4558a-8cff-422d-abe8-7b26f227e9ca?action=share&source=collection_link&creator=30719102"
 	},
 	"item": [
 		{
@@ -35,12 +35,21 @@
 							"});",
 							"",
 							"// Functional Testing Verification",
-							"//Event Name Exists",
-							"    pm.test(\"Event Name is not empty and exists\", function () {",
-							"        \tfor (let i=0; i <responseData.length; i++) {",
-							"        \t\tpm.expect(responseData[i].event_name).to.not.be.empty;",
-							"        }",
-							"    });",
+							"",
+							"// Event Name Exists",
+							"pm.test(\"Event Name is not empty and exists\", function () {",
+							"    for (let i=0; i<responseData.length; i++) {",
+							"        pm.expect(responseData[i].event_name).to.not.be.empty;",
+							"    }",
+							"});",
+							"",
+							"// Status is Valid",
+							"pm.test(\"Status is valid and known to us\", function () {",
+							"    for (let i=0; i<responseData.length; i++) {",
+							"        pm.expect(responseData[i].status).to.be.oneOf([\"past\", \"cancelled\", \"upcoming\"]);",
+							"    }",
+							"});",
+							"",
 							"//TBD"
 						],
 						"type": "text/javascript"
