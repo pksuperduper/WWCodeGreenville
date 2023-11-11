@@ -94,9 +94,9 @@ The mansion, with its bizarre residents, had become more than just a legacy—it
 
 As I explored the mansion, Clara left me with one hint as she disappeared.  "Uncle Bernie is everywhere -- in every ghost and living being!"
 
-I looked everywhere and the whole mansion was truned into glass with no computer or computing device in sight!  How could I solve this challenge?  No code or puzzle that was visible. 
+I looked everywhere and the whole mansion was turned into glass with no computer or computing device in sight!  How could I solve this challenge?  No code or puzzle that was visible. 
 
-In my blind eyes, I looked again and now I saw glass in every wall.  How is this a puzzle to debug?  I could not figure it out.  I broke one glass wall in a brute force attempt trying to impress Uncle Bernie and his ghost colleagues.  
+In my blind eyes, I looked again and now I confirmed I saw glass in every wall.  How is this a puzzle to debug?  I could not figure it out.  I broke one glass wall in a brute force attempt trying to impress Uncle Bernie and his ghost colleagues.  
 
 That yielded nothing except broken glass.  In a desperate attempt, I pieced together the broken glass shards in a naive manner, and tried to show this was solving the puzzle.  Still, the glass walls did not show any sign that this was intended.  The broken glass wall did not show any new adventure that was awaiting.
 
