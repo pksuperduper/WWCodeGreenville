@@ -1,0 +1,20 @@
+
+interactive fiction: 
+  - 2023_Hacktoberfest/EventVideos/*
+
+tests:
+  - 2023_Hacktoberfest/InteractiveFiction-API_Antics/*
+
+hackgreenvilleeventsAPItestsuite:
+  - HackGreenvilleEventsAPITestSuite/**
+
+assets: 
+  - assets/readme/*
+
+documentation: 
+  - 2023_Hacktoberfest/**
+  - assets/readme/*
+  - '**/*.txt'
+  - '**/CONTRIBUTING.md'
+  - '**/README.md'
+
