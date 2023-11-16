@@ -6,6 +6,7 @@ Additional authors who added to this story are:
 - Jen Bauer, Chapter 1
 - Ali Herrera, Chapter 2
 - Jure Blazevic, Chapter 3
+- Prayrana Khadye, Chapter 4
 - TBD
 
 
@@ -88,5 +89,18 @@ We accepted the challenge with determination, pouring over lines of code, debati
 As the days turned into weeks, Clara and I, along with the help of the loyal coding spirits, inched closer to the heart of the mystery. With each obstacle overcome, it became clear that Uncle Bernie's vision was not just the work of an eccentric genius, but a testament to the enduring spirit of exploration and innovation that had bound together this supernatural community of programmers.
 
 The mansion, with its bizarre residents, had become more than just a legacy—it was an unexpected adventure, a nexus of enigmas, and a place where the limits of technology and human understanding blurred. And within its walls, I discovered that my startup dreams could coexist with a paranormal debugging quest unlike anything I could have ever imagined.
-## Chapter 4: TBD
+
+## Chapter 4: Inside Glass Walls
+
+As I explored the mansion, Clara left me with one hint as she disappeared.  "Uncle Bernie is everywhere -- in every ghost and living being!"
+
+I looked everywhere and the whole mansion was turned into glass with no computer or computing device in sight!  How could I solve this challenge?  No code or puzzle that was visible. 
+
+In my blind eyes, I looked again and now I confirmed I saw glass in every wall.  How is this a puzzle to debug?  I could not figure it out.  I broke one glass wall in a brute force attempt trying to impress Uncle Bernie and his ghost colleagues.  
+
+That yielded nothing except broken glass.  In a desperate attempt, I pieced together the broken glass shards in a naive manner, and tried to show this was solving the puzzle.  Still, the glass walls did not show any sign that this was intended.  The broken glass wall did not show any new adventure that was awaiting.
+
+Finally, Uncle Bernie spoke -- "This bug is not a bug.  It is a flaw that binds us here.  There is no puzzle with glass shards.  Find the real ghost story if you can!  And he laughed for 10 hours a day every day -- as we all tried to get a new strategy!"
+
+## Chapter 5: TBD
 _To be continued!_
