@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
@@ -131,3 +133,7 @@ Copyright (c) 2019 Women Who Code Greenville
 [acknowledgements-heading]: assets/readme/acknowledgements.svg
 [contact-heading]: assets/readme/contact.svg
 [links-heading]: assets/readme/contact.svg
+
+<p align="right">
+  <a href="#top" style="background-color: #007d7f; color: yellow; padding: 6px; outline: none; position: sticky; top:0;" align="center">Back to top</a>
+</p>

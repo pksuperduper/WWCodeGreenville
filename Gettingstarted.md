@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 # How to contribute
 
 To contribute to this project, please follow these steps:
@@ -50,3 +52,8 @@ Replace `<branch_name>` with the name of the branch that you want to pushed your
 **Thanks for your contributions❤️**.
 
 **Happy coding 💻🥳**.
+
+<p align="right">
+  <a href="#top" style="background-color: #007d7f; color: yellow; padding: 6px; outline: none" align="center">Back to top</a>
+</p>
+
