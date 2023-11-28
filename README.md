@@ -50,7 +50,7 @@ To learn about how to contribute to this repository, please see the [getting sta
 <!-- CURRENT PROJECTS -->
 ### 🌟 Current Projects
 <span id="current-projects"></span>
-- [API Antics, a Choose Your Own Adventure Interactive Fiction Story](API-Antics-Interactive-Fiction-Project)
+- [API Antics, a Choose Your Own Adventure Interactive Fiction Story](https://github.com/WomenWhoCode/WWCodeGreenville/wiki/API-Antics-Interactive-Fiction-Project)
 - [Debug Mansion, a Collaborative Fiction Story](https://github.com/WomenWhoCode/WWCodeGreenville/wiki/Debug-Mansion,-a-Collaborative-Fiction-Story)
 - [HackGreenville Events API Postman Test Suite](https://github.com/WomenWhoCode/WWCodeGreenville/wiki/HackGreenville-Events-API-Postman-Test-Suite)
 <br/> <br/>
